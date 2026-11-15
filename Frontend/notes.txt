@@ -1,0 +1,16 @@
+npm create vite@latest
+
+tailwind install
+npm install tailwindcss @tailwindcss/vite
+
+install axioms -> backend se data fetch krne ke liye
+ npm install --force axios 
+
+
+ secret key generate krwane ke liye
+ open bash ->
+ command==>
+ openssl rand -base64 32
+
+react router dom me --force use krna h
+
